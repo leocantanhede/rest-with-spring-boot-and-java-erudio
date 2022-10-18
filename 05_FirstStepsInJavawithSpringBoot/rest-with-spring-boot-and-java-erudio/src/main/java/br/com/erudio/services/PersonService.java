@@ -1,4 +1,4 @@
-package br.com.erudio.service;
+package br.com.erudio.services;
 
 import java.util.List;
 import java.util.logging.Logger;
