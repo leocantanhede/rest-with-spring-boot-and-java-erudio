@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.erudio.exceptions.UnsupportedMathOperationException;
-import br.com.erudio.service.MathService;
+import br.com.erudio.services.MathService;
 
 @RestController
 public class MathController {
